@@ -1,6 +1,9 @@
 +++
-date = '2024-11-12T13:57:58+01:00'
+title = "Ana Belén Morales"
+date = "2024-12-02"
 draft = false
-title = 'Ana Belén Morales'
 +++
-#Contenido de la página
+
+# Bienvenida
+
+Hola, soy Ana Belén Morales. Esta es mi página personal donde comparto mis proyectos e ideas.

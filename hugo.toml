@@ -1,4 +1,14 @@
 baseURL = 'http://localhost:1313'
 languageCode = 'es-es'
-title = 'Sitio de Ana Morales'
-theme='relearn'
+title = 'Portfolio DWES'
+theme='hyde'
+[params]
+   description = "Mi sitio con Hugo"
+   themeColor = "theme-base-09"
+   layoutReverse = true
+   disqusShortname = "spf13"
+[Menus]
+main = [
+      {Name = "Github", URL = "https://github.com/username/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+]

@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ana Belén Morales on Portfolio DWES</title>
-    <link>https://anabmorales.github.io/portafolio-personal/</link>
-    <description>Recent content in Ana Belén Morales on Portfolio DWES</description>
+    <title>Markdowns on Portfolio DWES</title>
+    <link>https://anabmorales.github.io/portafolio-personal/markdown/</link>
+    <description>Recent content in Markdowns on Portfolio DWES</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://anabmorales.github.io/portafolio-personal/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>¡Hola! Bienvenidos a mi sitio</title>
-      <link>https://anabmorales.github.io/portafolio-personal/blog/bienvenida/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://anabmorales.github.io/portafolio-personal/blog/bienvenida/</guid>
-      <description>&lt;h1 id=&#34;soy-ana-belén-morales&#34;&gt;Soy Ana Belén Morales&lt;/h1&gt;&#xA;&lt;p&gt;Estudiante y desarrolladora en aprendizaje. Esta es una breve introducción sobre mí.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Profesión&lt;/strong&gt;: Desarrolladora web&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intereses&lt;/strong&gt;: Programación, diseño web y nuevas tecnologías&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:anab_morales@hotmail.com&#34;&gt;anab_morales@hotmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://anabmorales.github.io/portafolio-personal/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sección sobre Markdown</title>
       <link>https://anabmorales.github.io/portafolio-personal/markdown/markdown/</link>

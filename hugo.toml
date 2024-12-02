@@ -1,12 +1,15 @@
+
+# Establecer la URL base de tu proyecto
+baseURL = "https://anabmorales.github.io/portafolio-personal/"
 #baseURL = 'http://localhost:1313'
+
 languageCode = 'es-es'
 title = 'Portfolio DWES'
 theme='hyde'
 # Configuración de la carpeta donde se generarán los archivos estáticos para GitHub Pages
 publishDir = "docs"
 
-# Establecer la URL base de tu proyecto
-baseURL = "https://anabmorales.github.io/portafolio-personal/"
+
 [params]
    description = "Mi sitio con Hugo"
    themeColor = "theme-base-09"
@@ -15,5 +18,6 @@ baseURL = "https://anabmorales.github.io/portafolio-personal/"
 [Menus]
 main = [
       {Name = "Github", URL = "https://github.com/username/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"},
+      {Name = "Markdown", URL  = "/markdown/markdown/"}
 ]

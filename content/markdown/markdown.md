@@ -44,3 +44,5 @@ Para insertar una imagen, usamos la siguiente sintaxis, en nuestro proyecto la i
 ```
 
 ![Imagen de un croissant](/images/croissant.png)
+
+![Imagen de un croissant](/images/croissants.jpg)

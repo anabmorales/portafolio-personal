@@ -17,7 +17,6 @@ publishDir = "docs"
    disqusShortname = "spf13"
 [Menus]
 main = [
-      {Name = "Github", URL = "https://github.com/username/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"},
-      {Name = "Markdown", URL  = "/markdown/markdown/"}
+      {Name = "Markdown", URL  = "/markdown/markdown/"},
+      {Name = "Hobbies", URL  = "/hobbies/"}
 ]

@@ -45,4 +45,3 @@ Para insertar una imagen, usamos la siguiente sintaxis, en nuestro proyecto la i
 
 ![Imagen de un croissant](https://anabmorales.github.io/portafolio-personal/uploads/croissant.png)
 
-![Imagen de un croissant](https://anabmorales.github.io/portafolio-personal/uploads/uploads/croissants.jpg)

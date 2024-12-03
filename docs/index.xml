@@ -16,6 +16,13 @@
       <description>&lt;h1 id=&#34;soy-ana-belén-morales&#34;&gt;Soy Ana Belén Morales&lt;/h1&gt;&#xA;&lt;p&gt;Estudiante y desarrolladora en aprendizaje. Esta es una breve introducción sobre mí.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Profesión&lt;/strong&gt;: Desarrolladora web&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intereses&lt;/strong&gt;: Programación, diseño web y nuevas tecnologías&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:anab_morales@hotmail.com&#34;&gt;anab_morales@hotmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Sección Técnica: PHP</title>
+      <link>https://anabmorales.github.io/portafolio-personal/tecnica/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://anabmorales.github.io/portafolio-personal/tecnica/</guid>
+      <description>&lt;h1 id=&#34;lenguaje-de-programación-php&#34;&gt;Lenguaje de Programación: PHP&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;PHP&lt;/strong&gt; (Hypertext Preprocessor) es un lenguaje de programación del lado del servidor ampliamente utilizado para desarrollar sitios web dinámicos. Se integra fácilmente con bases de datos, especialmente con MySQL, y es la base de plataformas como WordPress.&lt;/p&gt;&#xA;&lt;h2 id=&#34;por-qué-php&#34;&gt;¿Por qué PHP?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Es fácil de aprender y usar.&lt;/li&gt;&#xA;&lt;li&gt;Tiene una gran comunidad de desarrolladores.&lt;/li&gt;&#xA;&lt;li&gt;Compatible con todas las bases de datos populares.&lt;/li&gt;&#xA;&lt;li&gt;Muy utilizado en desarrollo web.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ejemplo-sencillo-de-código-saludar-al-usuario&#34;&gt;Ejemplo sencillo de código: Saludar al usuario&lt;/h2&gt;&#xA;&lt;p&gt;En este ejemplo, vamos a crear un script en PHP que saluda al usuario con un mensaje personalizado. El código recibe el nombre del usuario a través de una variable y muestra un saludo.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hobbies</title>
       <link>https://anabmorales.github.io/portafolio-personal/hobbies/</link>
       <pubDate>Sun, 01 Dec 2024 22:25:37 +0100</pubDate>
@@ -24,9 +31,9 @@
     </item>
     <item>
       <title>Sección sobre Markdown</title>
-      <link>https://anabmorales.github.io/portafolio-personal/markdown/markdown/</link>
+      <link>https://anabmorales.github.io/portafolio-personal/markdown/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://anabmorales.github.io/portafolio-personal/markdown/markdown/</guid>
+      <guid>https://anabmorales.github.io/portafolio-personal/markdown/</guid>
       <description>&lt;h1 id=&#34;sintaxis-de-markdown&#34;&gt;Sintaxis de Markdown&lt;/h1&gt;&#xA;&lt;p&gt;Markdown es un lenguaje de marcado ligero que puedes utilizar para formatear texto de manera sencilla. A continuación, verás algunos ejemplos comunes de sintaxis en Markdown.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-encabezados&#34;&gt;1. Encabezados&lt;/h2&gt;&#xA;&lt;p&gt;Para crear encabezados en Markdown, usamos el símbolo &lt;code&gt;#&lt;/code&gt;. La cantidad de &lt;code&gt;#&lt;/code&gt; define el nivel del encabezado.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Encabezado de nivel 1&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Encabezado de nivel 2&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;### Encabezado de nivel 3&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;encabezado-de-nivel-1&#34;&gt;Encabezado de nivel 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;encabezado-de-nivel-2&#34;&gt;Encabezado de nivel 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;encabezado-de-nivel-3&#34;&gt;Encabezado de nivel 3&lt;/h3&gt;&#xA;&lt;h2 id=&#34;2-tablas&#34;&gt;2. Tablas&lt;/h2&gt;&#xA;&lt;p&gt;Para crear una tabla en Markdown, usamos guiones - para separar las filas y las barras verticales | para separar las columnas.&lt;/p&gt;</description>
     </item>
   </channel>

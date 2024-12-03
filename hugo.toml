@@ -17,6 +17,7 @@ publishDir = "docs"
    disqusShortname = "spf13"
 [Menus]
 main = [
-      {Name = "Markdown", URL  = "/markdown/markdown/"},
+      {Name = "Markdown", URL  = "/markdown/"},
+      {Name = "Sección Técnica: PHP", URL  = "/tecnica/"},
       {Name = "Hobbies", URL  = "/hobbies/"}
 ]

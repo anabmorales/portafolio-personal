@@ -43,6 +43,6 @@ Para insertar una imagen, usamos la siguiente sintaxis, en nuestro proyecto la i
 ![Texto alternativo](URL-de-la-imagen)
 ```
 
-![Imagen de un croissant](/images/croissant.png)
+![Imagen de un croissant](/uploads/croissant.png)
 
-![Imagen de un croissant](/images/croissants.jpg)
+![Imagen de un croissant](/uploads/croissants.jpg)

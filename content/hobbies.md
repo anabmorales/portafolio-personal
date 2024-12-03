@@ -14,7 +14,7 @@ Me encanta la lectura, y estos son algunos de mis libros favoritos:
 Un libro lleno de tensión psicológica y acción, que muestra el lado más oscuro de la competencia y la supervivencia.
 
 ## 2. *Oryx y Crake* - Margaret Atwood
-![Oryx y Crake](/uploads/oryx-y-crake.jpg)
+![Oryx y Crake](uploads/oryx-y-crake.jpg)
 
 Una obra que combina ciencia ficción, reflexión ética y una visión post-apocalíptica de la humanidad.
 

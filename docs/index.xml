@@ -23,6 +23,13 @@
       <description>&lt;h1 id=&#34;lenguaje-de-programación-php&#34;&gt;Lenguaje de Programación: PHP&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;PHP&lt;/strong&gt; (Hypertext Preprocessor) es un lenguaje de programación del lado del servidor ampliamente utilizado para desarrollar sitios web dinámicos. Se integra fácilmente con bases de datos, especialmente con MySQL, y es la base de plataformas como WordPress.&lt;/p&gt;&#xA;&lt;h2 id=&#34;por-qué-php&#34;&gt;¿Por qué PHP?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Es fácil de aprender y usar.&lt;/li&gt;&#xA;&lt;li&gt;Tiene una gran comunidad de desarrolladores.&lt;/li&gt;&#xA;&lt;li&gt;Compatible con todas las bases de datos populares.&lt;/li&gt;&#xA;&lt;li&gt;Muy utilizado en desarrollo web.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ejemplo-sencillo-de-código-saludar-al-usuario&#34;&gt;Ejemplo sencillo de código: Saludar al usuario&lt;/h2&gt;&#xA;&lt;p&gt;En este ejemplo, vamos a crear un script en PHP que saluda al usuario con un mensaje personalizado. El código recibe el nombre del usuario a través de una variable y muestra un saludo.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Uso de Shortcodes</title>
+      <link>https://anabmorales.github.io/portafolio-personal/shortcodes/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://anabmorales.github.io/portafolio-personal/shortcodes/</guid>
+      <description>&lt;p&gt;Aquí hemos usado &lt;strong&gt;shortcodes&lt;/strong&gt;.&lt;br&gt;&#xA;Dos ejemplos de shortcodes personalizados:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alerta personalizada&lt;/strong&gt;&#xA;&lt;div style=&#34;padding: 10px; border: 1px solid red; background-color: #fdecea; border-radius: 5px; margin: 10px 0;&#34;&gt;&#xD;&#xA;    &lt;strong&gt;¡Atención!&lt;/strong&gt;&#xD;&#xA;    &lt;p&gt;&#xA;   Este es un mensaje importante con estilo personalizado.&#xA;   &lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Botón con enlace&lt;/strong&gt;&#xA;&lt;a href=&#34;https://anabmorales.github.io/portafolio-personal/hobbies/&#34; style=&#34;display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; text-decoration: none; border-radius: 5px; font-weight: bold;&#34;&gt;&#xD;&#xA;    &#xA;   Visita mi sitio web&#xA;   &#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
       <title>Hobbies</title>
       <link>https://anabmorales.github.io/portafolio-personal/hobbies/</link>
       <pubDate>Sun, 01 Dec 2024 22:25:37 +0100</pubDate>

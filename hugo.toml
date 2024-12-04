@@ -19,5 +19,6 @@ publishDir = "docs"
 main = [
       {Name = "Markdown", URL  = "/markdown/"},
       {Name = "Sección Técnica: PHP", URL  = "/tecnica/"},
+      {Name = "Uso de Shortcodes", URL  = "/shortcodes/"},
       {Name = "Hobbies", URL  = "/hobbies/"}
 ]

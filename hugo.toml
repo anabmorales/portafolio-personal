@@ -9,6 +9,7 @@ theme='hyde'
 # Configuración de la carpeta donde se generarán los archivos estáticos para GitHub Pages
 publishDir = "docs"
 
+[data]
 
 [params]
    description = "Mi sitio con Hugo"
@@ -17,8 +18,9 @@ publishDir = "docs"
    disqusShortname = "spf13"
 [Menus]
 main = [
-      {Name = "Markdown", URL  = "/markdown/"},
-      {Name = "Sección Técnica: PHP", URL  = "/tecnica/"},
-      {Name = "Uso de Shortcodes", URL  = "/shortcodes/"},
-      {Name = "Hobbies", URL  = "/hobbies/"}
+      {Name = "1 Markdown", URL  = "/markdown/"},
+      {Name = "2 Hobbies", URL  = "/hobbies/"},
+      {Name = "3 Sección Técnica: PHP", URL  = "/tecnica/"},
+      {Name = "4 Uso de Shortcodes", URL  = "/shortcodes/"},
+      {Name = "5 Datos dinámicos", URL  = "/dinamico/"}      
 ]

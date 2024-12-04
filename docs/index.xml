@@ -16,6 +16,13 @@
       <description>&lt;h1 id=&#34;soy-ana-belén-morales&#34;&gt;Soy Ana Belén Morales&lt;/h1&gt;&#xA;&lt;p&gt;Estudiante y desarrolladora en aprendizaje. Esta es una breve introducción sobre mí.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Profesión&lt;/strong&gt;: Desarrolladora web&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Intereses&lt;/strong&gt;: Programación, diseño web y nuevas tecnologías&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:anab_morales@hotmail.com&#34;&gt;anab_morales@hotmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Datos dinámicos</title>
+      <link>https://anabmorales.github.io/portafolio-personal/dinamico/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://anabmorales.github.io/portafolio-personal/dinamico/</guid>
+      <description>&lt;p&gt;#Aquí mostramos datos dinámicos cargados desde el archivo tv.json:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sección Técnica: PHP</title>
       <link>https://anabmorales.github.io/portafolio-personal/tecnica/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
